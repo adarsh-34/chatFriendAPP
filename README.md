@@ -1,6 +1,5 @@
-# chatFriendAPP
-Chat Friend App: The Ultra-Human Conversational AI
-
+# AI question support checker app
+AI QUESTION SUPPORT CHECKER APP
 Project Overview
 
 This app is a project built in Code.org App Lab to see how human-like we can make a program feel without using actual external AI (like ChatGPT or Gemini). The goal was to build a multi-screen chat interface that feels intuitive, friendly, and genuinely helpful. We went for conversational flow over robotic commands!
@@ -53,10 +52,10 @@ screen2
 
 Expert Tools & API Access
 
-userInput2, outputArea2, submitButton2, supportButton1, dontsupportButton1
+The button id names are: userInput2, outputArea2, submitButton2, supportButton1, dontsupportButton1
 
 screen3
 
 Feedback Receiver
 
-userInput3, outputArea3, submitButton3, homeButton
+The button id names are: userInput3, outputArea3, submitButton3, homeButton
